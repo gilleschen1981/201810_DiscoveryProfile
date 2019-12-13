@@ -1,11 +1,9 @@
-package com.microfocus.ucmdb.universaldiscovery.discoveryprofile.oob;
+package com.microfocus.ucmdb.universaldiscovery.discoveryprofile.oob.model;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.ObjectNode;
-import com.microfocus.ucmdb.universaldiscovery.discoveryprofile.oob.model.DiscoveryJob;
-import com.microfocus.ucmdb.universaldiscovery.discoveryprofile.oob.model.DiscoveryProfile;
 
 import java.util.*;
 

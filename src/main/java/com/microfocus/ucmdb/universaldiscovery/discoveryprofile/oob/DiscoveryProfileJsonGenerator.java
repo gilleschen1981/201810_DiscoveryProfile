@@ -1,9 +1,9 @@
 package com.microfocus.ucmdb.universaldiscovery.discoveryprofile.oob;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.microfocus.ucmdb.universaldiscovery.discoveryprofile.oob.model.DiscoveryJob;
 import com.microfocus.ucmdb.universaldiscovery.discoveryprofile.oob.model.DiscoveryProfile;
-import com.microfocus.ucmdb.universaldiscovery.discoveryprofile.oob.reader.ExcelReader;
+import com.microfocus.ucmdb.universaldiscovery.discoveryprofile.oob.model.DiscoveryProfileRepository;
+import com.microfocus.ucmdb.universaldiscovery.discoveryprofile.oob.excel.ExcelReader;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 
 import java.io.File;

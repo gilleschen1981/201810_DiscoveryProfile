@@ -1,4 +1,4 @@
-package com.microfocus.ucmdb.universaldiscovery.discoveryprofile.oob.reader;
+package com.microfocus.ucmdb.universaldiscovery.discoveryprofile.oob.excel;
 
 import com.microfocus.ucmdb.universaldiscovery.discoveryprofile.oob.model.DiscoveryJob;
 
